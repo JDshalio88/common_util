@@ -1,0 +1,19 @@
+{
+  "name": "common_util",
+  "version": "1.0.0",
+  "description": "collect usefull code snippet",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDshalio88/common_util.git"
+  },
+  "author": "shalio88@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JDshalio88/common_util/issues"
+  },
+  "homepage": "https://github.com/JDshalio88/common_util#readme"
+}
